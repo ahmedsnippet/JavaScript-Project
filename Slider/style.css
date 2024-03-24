@@ -1,0 +1,15 @@
+.arrow{
+    cursor: pointer;
+    position: absolute;
+    top: 45%;
+    background-color: #fff;
+    padding: 8px 20px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.next{
+    right: 0;
+}
+.slides{
+    display: none;
+}
